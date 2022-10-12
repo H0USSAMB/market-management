@@ -1,0 +1,68 @@
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.exe.config
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.exe
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.pdb
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\bin\Debug\Guna.UI2.dll
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.LoginForm.resources
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.Properties.Resources.resources
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.CopyComplete
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.exe
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.pdb
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SpalshForm.resources
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.CategoryForm.resources
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.ProductForm.resources
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SellerForm.resources
+C:\Users\acer\source\repos\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SellingForm.resources
+C:\Users\houssam\Downloads\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.exe.config
+C:\Users\houssam\Downloads\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.exe
+C:\Users\houssam\Downloads\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.pdb
+C:\Users\houssam\Downloads\Mini_Market Management System\Mini_Market Management System\bin\Debug\Guna.UI2.dll
+C:\Users\houssam\Downloads\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.AssemblyReference.cache
+C:\Users\houssam\Downloads\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.CategoryForm.resources
+C:\Users\houssam\Downloads\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.LoginForm.resources
+C:\Users\houssam\Downloads\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.ProductForm.resources
+C:\Users\houssam\Downloads\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.Properties.Resources.resources
+C:\Users\houssam\Downloads\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SellerForm.resources
+C:\Users\houssam\Downloads\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SellingForm.resources
+C:\Users\houssam\Downloads\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SpalshForm.resources
+C:\Users\houssam\Downloads\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.GenerateResource.cache
+C:\Users\houssam\Downloads\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.CoreCompileInputs.cache
+C:\Users\houssam\Downloads\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.CopyComplete
+C:\Users\houssam\Downloads\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.exe
+C:\Users\houssam\Downloads\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.pdb
+C:\Users\houssam\Desktop\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.exe.config
+C:\Users\houssam\Desktop\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.exe
+C:\Users\houssam\Desktop\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.pdb
+C:\Users\houssam\Desktop\Mini_Market Management System\Mini_Market Management System\bin\Debug\Guna.UI2.dll
+C:\Users\houssam\Desktop\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.AssemblyReference.cache
+C:\Users\houssam\Desktop\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.CategoryForm.resources
+C:\Users\houssam\Desktop\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.LoginForm.resources
+C:\Users\houssam\Desktop\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.ProductForm.resources
+C:\Users\houssam\Desktop\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.Properties.Resources.resources
+C:\Users\houssam\Desktop\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SellerForm.resources
+C:\Users\houssam\Desktop\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SellingForm.resources
+C:\Users\houssam\Desktop\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SpalshForm.resources
+C:\Users\houssam\Desktop\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.GenerateResource.cache
+C:\Users\houssam\Desktop\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.CoreCompileInputs.cache
+C:\Users\houssam\Desktop\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.CopyComplete
+C:\Users\houssam\Desktop\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.exe
+C:\Users\houssam\Desktop\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.pdb
+D:\Users\houssam\OneDrive\Desktop\centre\houssam&sohaib205\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.exe.config
+D:\Users\houssam\OneDrive\Desktop\centre\houssam&sohaib205\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.exe
+D:\Users\houssam\OneDrive\Desktop\centre\houssam&sohaib205\Mini_Market Management System\Mini_Market Management System\bin\Debug\Mini_Market Management System.pdb
+D:\Users\houssam\OneDrive\Desktop\centre\houssam&sohaib205\Mini_Market Management System\Mini_Market Management System\bin\Debug\Guna.UI2.dll
+D:\Users\houssam\OneDrive\Desktop\centre\houssam&sohaib205\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.AssemblyReference.cache
+D:\Users\houssam\OneDrive\Desktop\centre\houssam&sohaib205\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.CategoryForm.resources
+D:\Users\houssam\OneDrive\Desktop\centre\houssam&sohaib205\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.LoginForm.resources
+D:\Users\houssam\OneDrive\Desktop\centre\houssam&sohaib205\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.ProductForm.resources
+D:\Users\houssam\OneDrive\Desktop\centre\houssam&sohaib205\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.Properties.Resources.resources
+D:\Users\houssam\OneDrive\Desktop\centre\houssam&sohaib205\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SellerForm.resources
+D:\Users\houssam\OneDrive\Desktop\centre\houssam&sohaib205\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SellingForm.resources
+D:\Users\houssam\OneDrive\Desktop\centre\houssam&sohaib205\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market_Management_System.SpalshForm.resources
+D:\Users\houssam\OneDrive\Desktop\centre\houssam&sohaib205\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.GenerateResource.cache
+D:\Users\houssam\OneDrive\Desktop\centre\houssam&sohaib205\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.CoreCompileInputs.cache
+D:\Users\houssam\OneDrive\Desktop\centre\houssam&sohaib205\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.csproj.CopyComplete
+D:\Users\houssam\OneDrive\Desktop\centre\houssam&sohaib205\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.exe
+D:\Users\houssam\OneDrive\Desktop\centre\houssam&sohaib205\Mini_Market Management System\Mini_Market Management System\obj\Debug\Mini_Market Management System.pdb
